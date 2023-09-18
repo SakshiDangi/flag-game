@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.btn {
+  margin-left: 4.5rem;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
